@@ -34,7 +34,7 @@ global.APIs = { // API Prefix
   hadi: 'http://hadi-api.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'YourApikey'
+  // 'https://website': 'name'
   'https://api.lolhuman.xyz': 'alfinkontolmemek'
   'https://api.xteam.xyz': 'luxxykontol',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
