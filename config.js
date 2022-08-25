@@ -32,6 +32,7 @@ global.APIs = { // API Prefix
   LeysCoder: 'https://leyscoders-api.herokuapp.com',
   violetics: 'https://violetics.pw',
   hadi: 'http://hadi-api.herokuapp.com'
+  alfinkontolmemek: '45d5c08a462ffadca6165881'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
